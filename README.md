@@ -1,3 +1,3 @@
-# typescript-tfvwky
+# Debounce Decorator
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/typescript-tfvwky)
+[See on StackBlitz ⚡️](https://stackblitz.com/edit/typescript-tfvwky)
